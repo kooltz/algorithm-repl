@@ -1,8 +1,10 @@
+package string;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 // 미제출
-public class Baekjoon_2941 {
+public class _2941 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
